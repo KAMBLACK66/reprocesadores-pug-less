@@ -4,4 +4,4 @@
 
 Este es el repositorio de código sobre el uso de los preprocesadores PUG y LESS del curso de Platzi. 😊
 
-[![colaboración](https://img.shields.io/static/v1?label=&message=VER%20SITIO&color=blue&logo=teach&logoColor=white&style=for-the-badge)](https://kamblack66.github.io/reprocesadores-pug-less/html/)
+[![colaboración](https://img.shields.io/static/v1?label=&message=VER%20SITIO&color=purple&logo=teach&logoColor=white&style=for-the-badge)](https://kamblack66.github.io/reprocesadores-pug-less/html/)
